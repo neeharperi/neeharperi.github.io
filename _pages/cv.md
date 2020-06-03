@@ -11,41 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc, Computer Engineering, University of Maryland - College Park, 2021
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Mukh Technologies: Research Intern (June 2020 - Present)**
+  * Leading research on improving facial recognition performance across domain shift with large scale data
+  * Building facial recognition pipelines for multi-spectral data streams
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Carnegie Mellon University: Robotics Institute Research Intern (April 2020 - Present)**
+  * Leading research on open-world detection and tracking of 3D objects to improve safety in self-driving vehicle applications
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **University of Maryland: UMIACS Research Intern (May 2018 - Jun 2020)**
+  * Conducted research in traffic analytics for unsupervised anomaly detection and discriminative representation learning for vehicle re-identification
+  * Led research in defending against clean-label adversarial attacks
+
+* **Bank of America: Conversational Commerce Technology Intern (May 2019 - Aug 2019)**
+  * Developed deep learning pipeline to validate quality of utterance-intent pairs in chatbot conversations using PyTorch, AllenNLP, and NLTK
+  * Delivered novel insights to improve customer satisfaction from production data and reduce call center call volume
+  * Deployed RESTful Active Learning API to introduce targeted learning feedback loop and improve intent classification model performance
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +43,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming Languages**: Python, Ruby,Java, MATLAB, C/C++, C#, OCaml
+* **Computer Hardware Tools**: MultiSim, PSpice, Verilog, AutoCAD
+* **Software Frameworks**: PyTorch, OpenCV, AllenNLP, NLTK, Flask
+
