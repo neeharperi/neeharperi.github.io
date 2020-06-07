@@ -1,5 +1,5 @@
 ---
-title: "The Devil is in the Details: Self-Sueprvised Attention for Vehicle Re-ID"
+title: "The Devil is in the Details: Self-Supervised Attention for Vehicle Re-ID"
 collection: publications
 permalink: /publications/SelfSupervisedReID
 excerpt: ''

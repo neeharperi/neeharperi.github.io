@@ -7,3 +7,6 @@ venue: "ECE Department"
 date: 2019-1-1
 location: "University of Maryland"
 ---
+
+* Led recitation for a discussion section of 15 students
+* Received highest marks on metrics of preparedness, respect for students, and overall teaching effectiveness from all students
