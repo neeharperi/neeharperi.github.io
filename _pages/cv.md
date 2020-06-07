@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc, Computer Engineering, University of Maryland - College Park, 2021
+* B.S. in Computer Engineering, University of Maryland - College Park, Expected May 2021
 
 Work Experience
 ======
@@ -42,10 +42,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Skills
 ======
 * **Programming Languages**: Python, Ruby,Java, MATLAB, C/C++, C#, OCaml
 * **Computer Hardware Tools**: MultiSim, PSpice, Verilog, AutoCAD
 * **Software Frameworks**: PyTorch, OpenCV, AllenNLP, NLTK, Flask
-
