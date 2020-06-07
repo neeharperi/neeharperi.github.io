@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-01
 venue: 'Preprint'
 paperurl: ''
-citation: 'Peri, N., Gupta, N., Huang, W. R., Fowl, L., Zhu, C., Feizi, S., Goldstein, T., and Dickerson, J. P. Deep k-NN Defense
+citation: 'Peri N, Gupta N, Huang WR, Fowl L, Zhu C, Feizi S, Goldstein T, Dickerson JP. Deep k-NN Defense
 against Clean-Label Data Poisoning Attacks'
 
 ---
