@@ -1,5 +1,5 @@
 ---
-title: "Process Improvement at Cherehani Africa"
+title: "Improving Process Efficiency at Cherehani Africa"
 excerpt: "<br/><img src='/images/cherehani.png'>"
 permalink: "/projects/CherehaniAfrica"
 collection: portfolio
