@@ -48,3 +48,6 @@ Skills
 * **Programming Languages**: Python, Ruby,Java, MATLAB, C/C++, C#, OCaml
 * **Computer Hardware Tools**: MultiSim, PSpice, Verilog, AutoCAD
 * **Software Frameworks**: PyTorch, OpenCV, AllenNLP, NLTK, Flask
+
+
+[[Download PDF]](http://neeharperi.com/files/NeeharResume.pdf)
