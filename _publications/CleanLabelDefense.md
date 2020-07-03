@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CleanLabelDefense
 excerpt: ''
 date: 2020-01-01
-venue: 'Preprint'
+venue: 'ICMLW 2020 - Uncertainity in Deep Learning'
 paperurl: ''
 citation: 'Peri N, Gupta N, Huang WR, Fowl L, Zhu C, Feizi S, Goldstein T, Dickerson JP. Deep k-NN Defense
 against Clean-Label Data Poisoning Attacks'

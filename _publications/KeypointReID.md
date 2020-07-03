@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/KeypointReID
 excerpt: ''
 date: 2019-01-01
-venue: 'ICCV'
+venue: 'ICCV 2019'
 paperurl: ''
 citation: 'Khorramshahi P, Kumar A, Peri N, Rambhatla SS, Chen JC, Chellappa R. A Dual-Path Model with Adaptive Attention for Vehicle Re-ID'
 

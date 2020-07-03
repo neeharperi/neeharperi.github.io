@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SelfSupervisedReID
 excerpt: ''
 date: 2020-01-01
-venue: 'Preprint'
+venue: 'ECCV 2020'
 paperurl: ''
 citation: ' Khorramshahi P, Peri N, Chen JC, Chellappa R. The Devil is in the Details: Self-Sueprvised Attention for Vehicle Re-ID'
 
