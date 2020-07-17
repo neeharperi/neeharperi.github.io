@@ -15,7 +15,7 @@ Education
 
 Work Experience
 ======
-* **Mukh Technologies: Research Intern (June 2020 - Present)**
+* **Mukh Technologies: Research Intern (August 2020 - Present)**
   * Leading research on improving facial recognition performance across domain shift with large scale data
   * Building facial recognition pipelines for multi-spectral data streams
 
@@ -33,7 +33,7 @@ Work Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
