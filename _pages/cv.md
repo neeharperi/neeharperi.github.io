@@ -15,16 +15,16 @@ Education
 
 Work Experience
 ======
-* **Mukh Technologies: Research Intern (August 2020 - Present)**
+* **MUKH Technologies: Research Intern (August 2020 - Present)**
   * Leading research on improving facial recognition performance across domain shift with large scale data
   * Building facial recognition pipelines for multi-spectral data streams
 
-* **Carnegie Mellon University: Robotics Institute Research Intern (April 2020 - Present)**
-  * Leading research on open-world detection and tracking of 3D objects to improve safety in self-driving vehicle applications
+* **Carnegie Mellon University: Robotics Institute Research Intern (April 2020 - December 2020)**
+  * Leading research on 3D open world detection and tracking for autonomous driving
   
 * **University of Maryland: UMIACS Research Intern (May 2018 - Jun 2020)**
   * Conducted research in traffic analytics for unsupervised anomaly detection and discriminative representation learning for vehicle re-identification
-  * Led research in defending against clean-label adversarial attacks
+  * Led research in defending against clean-label adversarial poisoning attacks
 
 * **Bank of America: Conversational Commerce Technology Intern (May 2019 - Aug 2019)**
   * Developed deep learning pipeline to validate quality of utterance-intent pairs in chatbot conversations using PyTorch, AllenNLP, and NLTK
@@ -45,8 +45,7 @@ Teaching
 
 Skills
 ======
-* **Programming Languages**: Python, Ruby,Java, MATLAB, C/C++, C#, OCaml
-* **Computer Hardware Tools**: MultiSim, PSpice, Verilog, AutoCAD
+* **Programming Languages**: Python, Ruby, Java, MATLAB, C/C++, C#, OCaml
 * **Software Frameworks**: PyTorch, OpenCV, AllenNLP, NLTK, Flask
 
 
