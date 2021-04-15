@@ -15,4 +15,6 @@ I'm a senior at the University of Maryland interested in pursuing a research car
 
 I'm actively involved in research at the University of Maryland under the guidance of [Dr. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [Dr. John Dickerson](http://jpdickerson.com). I also collaborate with [Dr. Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. I’ve had the opportunity to work on several projects relating to vehicle re-identification, traffic anomaly detection, adversarial machine learning, multi-modal facial recognition, and open-world 3D tracking.
 
+I'll be joining Carnegie Mellon University as a PhD student at the Robotics Institute in Fall 2021.
+
 Get in touch if you'd like to learn more about my work!
