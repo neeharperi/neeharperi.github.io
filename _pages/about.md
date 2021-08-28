@@ -17,8 +17,6 @@ As an undergraduate at the University of Maryland, I was actively involved in re
 
 Get in touch if you'd like to learn more about my work!
 
-[[Email](mailto: contact [at] neeharperi.com)] [[Google Scholar](https://scholar.google.com/citations?user=X3cGY7wAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/neeharperi/)] [[GitHub](https://github.com/neeharperi)]
-
 ### Recent News
 - [May 2021] I was selected as the Maryland Undergraduate Researcher of the Year
 - [May 2021] I was awarded the Sujan Guhan Memorial Best Senior Thesis Award by the ECE Department
