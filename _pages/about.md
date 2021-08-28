@@ -19,6 +19,6 @@ Get in touch if you'd like to learn more about my work!
 
 ### Recent News
 - [May 2021] I was selected as the Maryland Undergraduate Researcher of the Year
-- [May 2021] I was awardSed the Sujan Guhan Memorial Best Senior Thesis Award by the ECE Department
+- [May 2021] I was awarded the Sujan Guhan Memorial Best Senior Thesis Award by the ECE Department
 - [March 2021] I was awarded an honorable mention for the National Science Foundation Graduate Research Fellowship Program
 - [December 2020] I was awarded an honorable mention for the Computing Research Association's Outstanding Undergraduate Researcher Award
