@@ -11,9 +11,15 @@ redirect_from:
 Towards Open World Visual Understanding
 =====
 
-I'm a first year PhD student at the Carnegie Mellon University Robotics Institute. I'm currently interested in working on generative models, self-supervised learning and open-world visual understanding with the goal of creating domain invariant intelligent perception systems that can generalize to the long tail of unseen data.
+I'm a first year PhD student at the Carnegie Mellon University Robotics Institute. I'm interested in developing algorithms that can generalize (Few-Shot and Zero-Shot Learning) with less supervision (Self-Supervised Learning) and data (Long-Tail Understanding). My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception.
 
-As an undergraduate at the University of Maryland, I was actively involved in research under the guidance of [Dr. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [Dr. John Dickerson](http://jpdickerson.com). I also collaborate with [Dr. Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. I’ve had the opportunity to work on several projects relating to vehicle re-identification, traffic anomaly detection, adversarial machine learning, auction design, multi-modal face synthesis, and 3D object detection, tracking, and forecasting for autonomous vehicles.
+As an undergraduate at the University of Maryland, I was actively involved in research under the guidance of [Dr. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [Dr. John Dickerson](http://jpdickerson.com). I also collaborate with [Dr. Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. I’ve had the opportunity to work on several projects relating to:
+- Vehicle Re-Identification
+- Traffic Anomaly Detection
+- Defending Against Clean-Label Adversarial Attacks
+- Human-in-the-Loop Learning for Auction Design
+- Cross-Modal Face Synthesis and Verification
+- 3D Object Detection, Tracking, and Forecasting for Autonomous Vehicles
 
 Get in touch if you'd like to learn more about my work!
 
