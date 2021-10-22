@@ -24,6 +24,7 @@ I am advised by [Dr. Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mel
 Get in touch if you'd like to learn more about my work!
 
 ### Recent News
+- [October 2021] Our paper [A Synthesis-Based Approach for Thermal-to-Visible Face Verification](https://arxiv.org/abs/2108.09558) has been accepted to FG 2021
 - [September 2021] Our paper [PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning](https://arxiv.org/abs/2106.03215) has been accepted to NeurIPS 2021
 - [May 2021] I was selected as the Maryland Undergraduate Researcher of the Year
 - [May 2021] I was awarded the Sujan Guhan Memorial Best Senior Thesis by the ECE Department
