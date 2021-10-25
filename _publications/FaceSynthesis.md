@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/FaceSynthesis
 excerpt: ''
 date: 2021-1-1
-venue: 'FG 2021'
+venue: 'FG'
 paperurl: ''
-citation: 'Peri N, Gleason J, Castillo CD, Bourlai T. Patel VM, Chellappa R. A Synthesis Based Approach for Thermal-to-Visible Face Verification. In: IEEE International Conference on Automatic Face and Gesture Recognition, FG (2021)'
+citation: 'Peri N, Gleason J, Castillo CD, Bourlai T. Patel VM, Chellappa R. A Synthesis Based Approach for Thermal-to-Visible Face Verification. In: IEEE International Conference on Automatic Face and Gesture Recognition, FG 2021'
 
 ---
 
