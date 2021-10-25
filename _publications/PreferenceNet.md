@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/PreferenceNet
 excerpt: ''
 date: 2021-1-1
-venue: 'NeurIPS 2021'
+venue: 'NeurIPS'
 paperurl: ''
-citation: 'Peri N, Curry MJ, Dooley S, Dickerson JP. PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning. In: Neural Information Processing Systems, NeurIPS (2021)'
+citation: 'Peri N, Curry MJ, Dooley S, Dickerson JP. PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning. In: Neural Information Processing Systems, NeurIPS 2021'
 
 ---
 
