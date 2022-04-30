@@ -11,12 +11,13 @@ redirect_from:
 Towards Open World Visual Understanding
 =====
 
-I'm a first year PhD student at Carnegie Mellon University's Robotics Institute. I'm interested in developing algorithms that can generalize (Few-Shot and Zero-Shot Learning) with less supervision (Self-Supervised Learning) and (Long-Tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception.
+I'm a second year PhD student at Carnegie Mellon University's Robotics Institute. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception. My current work with the Argo AI Center for Autonomous Vehicle Research focuses on building safe autonomy. 
 
-I am advised by [Dr. Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. As an undergraduate at the University of Maryland, I was actively involved in research under the guidance of [Dr. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [Dr. John Dickerson](http://jpdickerson.com). I’ve had the opportunity to work on several projects relating to:
+I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. As an undergraduate at the University of Maryland, I was actively involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). I’ve had the opportunity to work on several projects relating to:
 - Vehicle Re-Identification
 - Traffic Anomaly Detection
 - Defending Against Clean-Label Adversarial Attacks
+- System Design and Data Collection for Virtualized Human Subject Research
 - Human-in-the-Loop Learning for Auction Design
 - Cross-Modal Face Synthesis and Verification
 - 3D Object Detection, Tracking, and Forecasting for Autonomous Vehicles
