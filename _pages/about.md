@@ -11,7 +11,7 @@ redirect_from:
 Towards Open World Visual Understanding
 =====
 
-I'm a second year PhD student at Carnegie Mellon University's Robotics Institute. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception. My current work with the Argo AI Center for Autonomous Vehicle Research focuses on building safe autonomy. 
+I'm a PhD student at Carnegie Mellon University's Robotics Institute. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception. My current work with the Argo AI Center for Autonomous Vehicle Research focuses on building safe autonomy. 
 
 I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. As an undergraduate at the University of Maryland, I was actively involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). I’ve had the opportunity to work on several projects relating to:
 - Vehicle Re-Identification
