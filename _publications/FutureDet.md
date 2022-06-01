@@ -14,5 +14,5 @@ Object detection and forecasting are fundamental components of embodied percepti
 
 [[Download Paper](http://neeharperi.com/files/FutureDet.pdf)] 
 [[Video](https://youtu.be/sDfJo_yC4qM)]
-[[Poster](http://neeharperi.com/files/FutureDet Poster.pdf)]
+[[Poster](http://neeharperi.com/files/FutureDetPoster.pdf)]
 [[Code](https://github.com/neeharperi/FutureDet)]
