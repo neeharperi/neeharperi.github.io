@@ -17,7 +17,7 @@ I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon 
 - Vehicle Re-Identification
 - Traffic Anomaly Detection
 - Defending Against Clean-Label Adversarial Attacks
-- System Design and Data Collection for Virtualized Human Subject Research
+- System Design and Data Collection for VR-based Human Subject Research
 - Human-in-the-Loop Learning for Auction Design
 - Cross-Modal Face Synthesis and Verification
 - 3D Object Detection, Tracking, and Forecasting for Autonomous Vehicles
