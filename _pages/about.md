@@ -31,5 +31,5 @@ Get in touch if you'd like to learn more about my work!
 - [October 2021] Our paper <span style="color:blue">A Synthesis-Based Approach for Thermal-to-Visible Face Verification</span> has been accepted to FG 2021
 - [September 2021] Our paper <span style="color:blue">PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning</span> has been accepted to NeurIPS 2021
 - [May 2021] I was selected as one of <span style="color:blue">Maryland's Undergraduate Researchers of the Year</span>
-- [May 2021] I was awarded the  by the ECE Department <span style="color:blue">Sujan Guhan Memorial Best Senior Thesis</span>
+- [May 2021] I was awarded the <span style="color:blue">Sujan Guhan Memorial Best Senior Thesis</span> by UMD's ECE Department 
 - [December 2020] I was awarded an honorable mention for the <span style="color:blue">Computing Research Association's Outstanding Undergraduate Researcher Award</span>
