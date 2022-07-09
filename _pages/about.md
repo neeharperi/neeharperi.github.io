@@ -18,7 +18,7 @@ I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon 
 ### Recent News
 
 - [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022
-- [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during
+- [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during Execution of Action Sequences</span> has been accepted to HCII 2022 
 <details>
   <summary>Show More</summary>
   <ul>
