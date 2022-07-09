@@ -18,10 +18,14 @@ I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon 
 ### Recent News
 
 - [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022
-- [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during Execution of Action Sequences</span> has been accepted to HCII 2022
-<!-- pagebreak -->
+- [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during
+<details>
+  <summary>Show More</summary>
+    
 - [October 2021] Our paper <span style="color:blue">A Synthesis-Based Approach for Thermal-to-Visible Face Verification</span> has been accepted to FG 2021
 - [September 2021] Our paper <span style="color:blue">PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning</span> has been accepted to NeurIPS 2021
 - [May 2021] I was selected as one of <span style="color:blue">Maryland's Undergraduate Researchers of the Year</span>
 - [May 2021] I was awarded the <span style="color:blue">Sujan Guhan Memorial Best Senior Thesis</span> by UMD's ECE Department 
 - [December 2020] I was awarded an honorable mention for the <span style="color:blue">Computing Research Association's Outstanding Undergraduate Researcher Award</span>
+</details>
+  
