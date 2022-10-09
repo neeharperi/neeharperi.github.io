@@ -18,7 +18,7 @@ I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon 
 ### Recent News
 
 - [September 2022] Our paper <span style="color:blue">Towards Long Tailed 3D Detection</span> has been accepted to CoRL 2022
-- [August 2022] Our paper <span style="color:blue">A Brief Survey of Person Recognition at a Distance</span> has been accepted to ASILOMAR 2022
+- [August 2022] Our paper <span style="color:blue">A Brief Survey of Person Recognition at a Distance</span> has been accepted to ACSSC 2022
 - [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022
 - [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during Execution of Action Sequences</span> has been accepted to HCII 2022 
 <details>
