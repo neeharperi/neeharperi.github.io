@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Towards Open World Visual Understanding
+Unifying Perception and Action for Embodied Intelligence
 =====
 
 I am a second year PhD student at the Robotics Institute. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception. My current work with the Argo AI Center for Autonomous Vehicle Research focuses on building safe autonomy. 
