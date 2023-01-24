@@ -17,7 +17,7 @@ I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon 
 
 ### Recent News
 
-- [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-EndThermal Spectrum Face Verification</span> has been accepted to TBIOM 2022
+- [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-End Thermal Spectrum Face Verification</span> has been accepted to TBIOM 2022
 - [September 2022] Our paper <span style="color:blue">Towards Long Tailed 3D Detection</span> has been accepted to CoRL 2022
 - [August 2022] Our paper <span style="color:blue">A Brief Survey of Person Recognition at a Distance</span> has been accepted to ACSSC 2022
 - [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022
