@@ -16,6 +16,7 @@ I am a second year PhD student working on [Computer Vision at the Robotics Insti
 I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
 
 ### Recent News
+- [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span>
 - [March 2023] Our paper <span style="color:blue">ReBound: An Open-Source 3D Bounding Box Annotation Tool for Active Learning</span> has been accepted to AutomationXP @ CHI 2023
 - [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-End Thermal Spectrum Face Verification</span> has been accepted to TBIOM 2022
 
