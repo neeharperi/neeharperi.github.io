@@ -11,7 +11,7 @@ redirect_from:
 Unifying Perception and Action for Embodied Intelligence
 =====
 
-I am a second year PhD student working on [Computer Vision at the Robotics Institute](http://vision.cs.cmu.edu/). I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My work uses computer vision and machine learning to improve the robustness and scalability of learning-based perception. My current work with the [Argo AI Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building safe autonomy. 
+I am a second year PhD student working on [Computer Vision at the Robotics Institute](http://vision.cs.cmu.edu/). I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building safe autonomy. I am supported in part by an NSF Graduate Research Fellowship.
 
 I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at Carnegie Mellon University. As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
 
