@@ -13,9 +13,10 @@ From 3D Perception to 4D Simulation
 
 I am a third year PhD student working on [Computer Vision](http://vision.cs.cmu.edu/) at Carnegie Mellon University. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, and simulation. I am supported in part by an NSF Graduate Research Fellowship.
 
-I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/). As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
+I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at the Robotics Institute. As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
 
 ### Recent News
+- [August 2023] Our paper <span style="color:blue">An Emperical Analysis of Range for 3D Object Detection</span> has been accepted to BRAVO @ ICCV 2023
 - [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span>
 - [March 2023] Our paper <span style="color:blue">ReBound: An Open-Source 3D Bounding Box Annotation Tool for Active Learning</span> has been accepted to AutomationXP @ CHI 2023
 - [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-End Thermal Spectrum Face Verification</span> has been accepted to TBIOM 2022
