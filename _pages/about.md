@@ -15,6 +15,11 @@ I am a third year PhD student working on [Computer Vision](http://vision.cs.cmu.
 
 I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at the Robotics Institute. As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
 
+<details>
+  <summary>Formal Biography</summary>
+  Neehar Peri is a third-year Robotics Ph.D. student at Carnegie Mellon University, advised by Deva Ramanan. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by an NSF Graduate Research Fellowship.
+</details>
+
 ### Recent News
 - [August 2023] Our paper <span style="color:blue">An Empirical Analysis of Range for 3D Object Detection</span> has been accepted to BRAVO @ ICCV 2023
 - [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span>
