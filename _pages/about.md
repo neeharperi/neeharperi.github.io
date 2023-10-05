@@ -11,13 +11,13 @@ redirect_from:
 From 3D Perception to 4D Simulation
 =====
 
-I am a third year PhD student working on [Computer Vision](http://vision.cs.cmu.edu/) at Carnegie Mellon University. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, and simulation. I am supported in part by an NSF Graduate Research Fellowship.
+I am a third year PhD student working on [Computer Vision](http://vision.cs.cmu.edu/) at Carnegie Mellon University. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, and simulation. I am supported in part by a NSF Graduate Research Fellowship.
 
 I am advised by [Deva Ramanan](http://www.cs.cmu.edu/~deva/) at the Robotics Institute. As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](http://jpdickerson.com). 
 
 <details>
   <summary>Formal Biography</summary>
-  Neehar Peri is a third-year Robotics Ph.D. student at Carnegie Mellon University, advised by Deva Ramanan. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by an NSF Graduate Research Fellowship.
+  Neehar Peri is a third-year Robotics Ph.D. student at Carnegie Mellon University, advised by Deva Ramanan. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
 </details>
 
 ### Recent News
