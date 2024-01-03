@@ -11,7 +11,7 @@ redirect_from:
 From 3D Perception to 4D Simulation
 =====
 
-I am a third year PhD student working on [Computer Vision](https://vision.cs.cmu.edu/) at Carnegie Mellon University. I'm interested in developing algorithms that can generalize (few-shot and zero-shot learning) with less supervision (self-supervised learning) and (long-tail) data. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, and simulation. I am supported in part by a NSF Graduate Research Fellowship.
+I am a third year PhD student working on [Computer Vision](https://vision.cs.cmu.edu/) at Carnegie Mellon University. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, planning, and simulation. I am supported in part by a NSF Graduate Research Fellowship.
 
 I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics Institute and frequently collaborate with [Shu Kong](https://aimerykong.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), and [Laura Leal-Taixe](https://research.nvidia.com/labs/dvl/author/laura-leal-taixe/). As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](https://jpdickerson.com). 
 
