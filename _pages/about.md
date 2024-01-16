@@ -21,14 +21,15 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
 </details>
 
 ### Recent News
-- [August 2023] Our paper <span style="color:blue">An Empirical Analysis of Range for 3D Object Detection</span> has been accepted to BRAVO @ ICCV 2023
-- [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span>
-- [March 2023] Our paper <span style="color:blue">ReBound: An Open-Source 3D Bounding Box Annotation Tool for Active Learning</span> has been accepted to AutomationXP @ CHI 2023
-- [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-End Thermal Spectrum Face Verification</span> has been accepted to TBIOM 2022
+- [January 2024] Our paper <span style="color:blue">ZeroFlow: Scalable Scene Flow via Distillation</span> has been accepted to ICLR 2024
 
 <details>
   <summary>Show More</summary>
   <ul>
+  <li> [August 2023] Our paper <span style="color:blue">An Empirical Analysis of Range for 3D Object Detection</span> has been accepted to BRAVO @ ICCV 2023 </li>
+  <li> [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span> </li>
+  <li> [March 2023] Our paper <span style="color:blue">ReBound: An Open-Source 3D Bounding Box Annotation Tool for Active Learning</span> has been accepted to AutomationXP @ CHI 2023 </li>
+  <li> [January 2023] Our paper <span style="color:blue">Data and Algorithms for End-to-End Thermal Spectrum Face Verification</span> has been accepted to TBIOM 2022 </li>
   <li> [September 2022] Our paper <span style="color:blue">Towards Long Tailed 3D Detection</span> has been accepted to CoRL 2022 </li>
   <li> [August 2022] Our paper <span style="color:blue">A Brief Survey of Person Recognition at a Distance</span> has been accepted to ACSSC 2022 </li>
   <li> [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022 </li>
