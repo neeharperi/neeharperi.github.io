@@ -1,12 +1,12 @@
 ---
-title: "Long-Tailed 3D Detection via Multi-Modal Fusion"
+title: "MSR Thesis: Long-Tailed 3D Detection via Multi-Modal Fusion"
 collection: publications
 permalink: /publications/MSR_LT3D
 excerpt: ''
 date: 2023-6-15
 venue: 'CMU'
 paperurl: ''
-citation: 'Peri N. Towards Long Tailed 3D Detection. Carnegie Mellon University. 2023'
+citation: 'Peri N. Long-Tailed 3D Detection via Multi-Modal Fusion. Carnegie Mellon University. 2023'
 
 ---
 
