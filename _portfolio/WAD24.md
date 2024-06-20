@@ -1,5 +1,5 @@
 ---
-title: "CVPR 2023 End-to-End Forecasting Challenge"
+title: "CVPR 2024 End-to-End Forecasting Challenge"
 excerpt: "<br/><img src='/images/av2.png'>"
 permalink: "WAD24-End-to-End-Forecasting-Challenge"
 collection: portfolio
