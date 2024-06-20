@@ -3,7 +3,7 @@ title: "CVPR 2023 End-to-End Forecasting Challenge"
 excerpt: "<br/><img src='/images/av2.png'>"
 permalink: "WAD24-End-to-End-Forecasting-Challenge"
 collection: portfolio
-date: 2023-6-18
+date: 2024-6-17
 ---
 
 # Challenge Summary
