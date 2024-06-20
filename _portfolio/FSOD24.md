@@ -1,15 +1,13 @@
 ---
-title: "CVPR 2024 End-to-End Forecasting Challenge"
-excerpt: "<br/><img src='/images/av2.png'>"
-permalink: "WAD24-End-to-End-Forecasting-Challenge"
+title: "CVPR 2024 Foundational Few-Shot Object Detection Challenge"
+excerpt: "<br/><img src='/images/fsod.png'>"
+permalink: "VPLOW24-Foundational-FSOD-Challenge"
 collection: portfolio
-date: 2024-6-17
+date: 2024-6-18
 ---
 
 # Challenge Summary
-Object detection and forecasting are fundamental components of embodied perception. These problems, however, are largely studied in isolation. We propose a joint detection, tracking, and multi-agent forecasting benchmark from sensor data. Although prior works have studied end-to-end perception, no large scale dataset or challenge exists to facilitate standardized evaluation for this problem. In addition, self-driving benchmarks have historically focused on evaluating a few common classes such as cars, pedestrians and bicycles, and neglect many rare classes in-the-tail. However, in the real open world, self-driving vehicles must still detect rare classes to ensure safe operation.
-
-To this end, our proposed benchmark will be the first to evaluate end-to-end perception on 26 classes defined by the AV2 ontology. Specifically, we will repurpose the AV2 sensor dataset, which has track annotations for 26 object categories, for end-to-end perception: for each timestep in a given sensor sequence, algorithms will have access to all prior frames and must produce tracks for all past sensor sweeps, detections for the current timestep, and forecasted trajectories for the next 3 s. This challenge is different from the Motion Forecasting challenge because we do not provide ground truth tracks as input, requiring algorithms to process raw sensor data. Our primary evaluation metric is Forecasting Average Precision, a joint detection and forecasting metric that computes performance averaged over static, linear, and nonlinearly moving cohorts. Unlike standard motion forecasting evaluation, end-to-end perception must consider both true positive and false positive predictions.
+Can foundation models replace human annotators for 2D data annotation? Vision-Language Models (VLMs) like GroundingDINO have demonstrated remarkable zero-shot 2D detection performance on standard benchmarks like COCO. However, such foundational models may still be sub-optimal for specific target applications like autonomous vehicle perception. Indeed, this well-known observation has created the ad-hoc practice of prompt engineering, where users actively search for a textual prompt that elicits the desired zero-shot behavior. Instead, we argue that one can principally address the challenge of aligning foundational models to target concepts through the lens of few-shot recognition by presenting VLMs with a few visual examples of the target concept. Crucially, such examples can be multi-modal, using both text and visual cues, mimicking the natural few-shot multi-modal instructions that are often given to human annotators when defining a target concept of interest. Concretely, we formalize the problem of learning from multi-modal annotator instructions using the nuImages dataset. We will evaluate detectors pre-trained on any external datasets (except nuImages and nuScenes) and fine-tuned on multi-modal (text and visual) 10-shot examples per nuImages class. Methods will be evaluated on a held-out set of images and will be ranked by mean average precision (mAP).
 
 # Challenge Winners
 **Team: NJUST KMG**
