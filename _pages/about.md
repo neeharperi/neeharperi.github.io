@@ -21,6 +21,9 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
 </details>
 
 ### Recent News
+- [July 2024] Our paper <span style="color:blue">Better Call SAL: Towards Segmenting Anything in LiDAR</span> has been accepted to ECCV 2024
+- [July 2024] Our paper <span style="color:blue">I Can't Beleive It's Not Scene Flow</span> has been accepted to ECCV 2024
+- [May 2024] Our paper <span style="color:blue">Semi-Supervised Federated Multi-Organ Segmentation with Partial Labels</span> has been accepted to AAPM 2024
 - [January 2024] Our paper <span style="color:blue">ZeroFlow: Scalable Scene Flow via Distillation</span> has been accepted to ICLR 2024
 
 <details>
