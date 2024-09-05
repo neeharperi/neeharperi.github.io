@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-09-01
 venue: 'CoRL'
 paperurl: ''
-citation: 'Khurana M, Peri N, Hays J, Ramanan D. helf-Supervised Cross-Modal Pre-Training for 3D Object Detection. In: Conference on Robot Learning, CoRL 2024'
+citation: 'Khurana M, Peri N, Hays J, Ramanan D. Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection. In: Conference on Robot Learning, CoRL 2024'
 
 ---
 
