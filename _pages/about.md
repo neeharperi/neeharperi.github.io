@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Toward 3D Perception In-The-Wild
+Towards 3D Perception In-The-Wild
 =====
 
 I am a fourth year PhD candidate working on [Computer Vision](https://vision.cs.cmu.edu/) at Carnegie Mellon University. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, planning, and simulation. I am supported in part by a NSF Graduate Research Fellowship.
