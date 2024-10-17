@@ -24,7 +24,7 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
 - [September 2024] Our paper <span style="color:blue">Revisiting Few-Shot Object Detection with Vision-Language Models</span> has been accepted to NeurIPS D&B 2024
 - [September 2024] Our paper <span style="color:blue">Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection</span> has been accepted to CoRL 2024
 - [July 2024] Our paper <span style="color:blue">Better Call SAL: Towards Segmenting Anything in LiDAR</span> has been accepted to ECCV 2024
-- [July 2024] Our paper <span style="color:blue">I Can't Beleive It's Not Scene Flow</span> has been accepted to ECCV 2024
+- [July 2024] Our paper <span style="color:blue">I Can't Believe It's Not Scene Flow</span> has been accepted to ECCV 2024
 - [May 2024] Our paper <span style="color:blue">Semi-Supervised Federated Multi-Organ Segmentation with Partial Labels</span> has been accepted to AAPM 2024
 - [January 2024] Our paper <span style="color:blue">ZeroFlow: Scalable Scene Flow via Distillation</span> has been accepted to ICLR 2024
 
