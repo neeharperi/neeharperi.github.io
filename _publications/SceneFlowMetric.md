@@ -1,12 +1,12 @@
 ---
-title: 'I Cant Beleive Its Not Scene Flow!'
+title: 'I Cant Believe Its Not Scene Flow!'
 collection: publications
 permalink: /publications/SceneFlowMetric
 excerpt: ''
 date: 2024-07-01
 venue: 'ECCV'
 paperurl: ''
-citation: 'Vedder K, Khatri I, Peri N, Ramanan D, Hays J. I Cant Beleive Its Not Scene Flow! In: European Conference on Computer Vision, ECCV 2024'
+citation: 'Vedder K, Khatri I, Peri N, Ramanan D, Hays J. I Cant Believe Its Not Scene Flow! In: European Conference on Computer Vision, ECCV 2024'
 
 ---
 
