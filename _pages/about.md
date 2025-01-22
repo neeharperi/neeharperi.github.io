@@ -21,16 +21,17 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
 </details>
 
 ### Recent News
-- [September 2024] Our paper <span style="color:blue">Revisiting Few-Shot Object Detection with Vision-Language Models</span> has been accepted to NeurIPS D&B 2024
-- [September 2024] Our paper <span style="color:blue">Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection</span> has been accepted to CoRL 2024
-- [July 2024] Our paper <span style="color:blue">Better Call SAL: Towards Segmenting Anything in LiDAR</span> has been accepted to ECCV 2024
-- [July 2024] Our paper <span style="color:blue">I Can't Believe It's Not Scene Flow</span> has been accepted to ECCV 2024
-- [May 2024] Our paper <span style="color:blue">Semi-Supervised Federated Multi-Organ Segmentation with Partial Labels</span> has been accepted to AAPM 2024
-- [January 2024] Our paper <span style="color:blue">ZeroFlow: Scalable Scene Flow via Distillation</span> has been accepted to ICLR 2024
+- [January 2025] Our paper <span style="color:blue">Neural Eulerian Scene Flow Fields</span> has been accepted to ICLR 2025
 
 <details>
   <summary>Show More</summary>
   <ul>
+  <li> [September 2024] Our paper <span style="color:blue">Revisiting Few-Shot Object Detection with Vision-Language Models</span> has been accepted to NeurIPS D&B 2024 </li>
+  <li> [September 2024] Our paper <span style="color:blue">Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection</span> has been accepted to CoRL 2024 </li>
+  <li> [July 2024] Our paper <span style="color:blue">Better Call SAL: Towards Segmenting Anything in LiDAR</span> has been accepted to ECCV 2024 </li>
+  <li> [July 2024] Our paper <span style="color:blue">I Can't Believe It's Not Scene Flow</span> has been accepted to ECCV 2024 </li>
+  <li> [May 2024] Our paper <span style="color:blue">Semi-Supervised Federated Multi-Organ Segmentation with Partial Labels</span> has been accepted to AAPM 2024 </li>
+  <li> [January 2024] Our paper <span style="color:blue">ZeroFlow: Scalable Scene Flow via Distillation</span> has been accepted to ICLR 2024 </li>
   <li> [August 2023] Our paper <span style="color:blue">An Empirical Analysis of Range for 3D Object Detection</span> has been accepted to BRAVO @ ICCV 2023 </li>
   <li> [March 2023] I was awarded the <span style="color:blue">NSF Graduate Research Fellowship</span> </li>
   <li> [March 2023] Our paper <span style="color:blue">ReBound: An Open-Source 3D Bounding Box Annotation Tool for Active Learning</span> has been accepted to AutomationXP @ CHI 2023 </li>
