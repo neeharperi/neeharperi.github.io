@@ -3,8 +3,8 @@ title: "Long-Tailed 3D Detection via Multi-Modal Fusion"
 collection: publications
 permalink: /publications/LT3Dv2
 excerpt: ''
-date: 2024-9-1
-venue: ''
+date: 2025-2-1
+venue: 'Under Review at TPAMI'
 paperurl: ''
 citation: 'Ma Y, Peri N, Wei S, Dave A, Hua W, Li Y, Ramanan D, Kong S. Long-Tailed 3D Detection via Multi-Modal Fusion. Under Review at TPAMI'
 
