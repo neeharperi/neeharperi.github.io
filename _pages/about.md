@@ -21,6 +21,7 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
 </details>
 
 ### Recent News
+- [February 2025] Our paper <span style="color:blue">QuickDraw: Fast Visualization, Analysis and Active Learning for Medical Image Segmentation</span> has been accepted to HCII 2025
 - [January 2025] Our paper <span style="color:blue">Planning with Adaptive World Models for Autonomous Driving</span> has been accepted to ICRA 2025
 - [January 2025] Our paper <span style="color:blue">Neural Eulerian Scene Flow Fields</span> has been accepted to ICLR 2025
 
