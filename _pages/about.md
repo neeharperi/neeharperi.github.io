@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Towards 3D Perception In-The-Wild
+3D Perception for Robotics
 =====
 
-I am a fourth year PhD candidate working on [Computer Vision](https://vision.cs.cmu.edu/) at Carnegie Mellon University. My current work with the [Center for Autonomous Vehicle Research](https://labs.ri.cmu.edu/argo-ai-center/) focuses on building robust 3D perception algorithms for detection, tracking, forecasting, planning, and simulation. I am supported in part by a NSF Graduate Research Fellowship.
-
-I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics Institute and frequently collaborate with [Shu Kong](https://aimerykong.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), and [Laura Leal-Taixe](https://research.nvidia.com/labs/dvl/author/laura-leal-taixe/). As an undergraduate at the University of Maryland, I was involved in research under the guidance of [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) and [John Dickerson](https://jpdickerson.com). 
+I am a fifth year PhD candidate advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at Carnegie Mellon's Robotics Institute. I am supported in part by a NSF Graduate Research Fellowship.
 
 <details>
   <summary>Formal Biography</summary>
-  Neehar Peri is a fourth year Robotics Ph.D. candidate at Carnegie Mellon University. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
+  Neehar Peri is a fifth year Robotics Ph.D. candidate at Carnegie Mellon University. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
 </details>
 
 ### Recent News
@@ -43,7 +41,6 @@ I am advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at the Robotics In
   <li> [August 2022] Our paper <span style="color:blue">A Brief Survey of Person Recognition at a Distance</span> has been accepted to ACSSC 2022 </li>
   <li> [March 2022] Our paper <span style="color:blue">Forecasting from LiDAR via Future Object Detection</span> has been accepted to CVPR 2022 </li>
   <li> [February 2022] Our paper <span style="color:blue">Assessment of a Novel Virtual Environment for Examining Human Cognitive-Motor Performance during Execution of Action Sequences</span> has been accepted to HCII 2022 </li>
-    
   <li> [October 2021] Our paper <span style="color:blue">A Synthesis-Based Approach for Thermal-to-Visible Face Verification</span> has been accepted to FG 2021 </li>
    <li> [September 2021] Our paper <span style="color:blue">PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning</span> has been accepted to NeurIPS 2021 </li>
     <li> [May 2021] I was selected as one of <span style="color:blue">Maryland's Undergraduate Researchers of the Year</span> </li>
