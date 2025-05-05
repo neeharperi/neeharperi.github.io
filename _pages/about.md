@@ -12,7 +12,12 @@ redirect_from:
 =====
 
 I am a fifth year PhD candidate advised by [Deva Ramanan](https://www.cs.cmu.edu/~deva/) at Carnegie Mellon's Robotics Institute. I am supported in part by a NSF Graduate Research Fellowship.
+ 
+### Research 
+My research focuses on developing 3D foundation models for robot perception. Current 2D foundation models trained on multi-modal internet-scale data achieve remarkable zero-shot accuracy across a variety of 2D perception tasks. However, extending such foundation models for 3D perception remains challenging due to a lack of diverse large-scale 3D training data. To bridge this gap, my work leverages 2D foundation models and geometric priors to generate 3D pseudo-labels, allowing us to turn any 2D dataset into a 3D dataset!
 
+ Note: <span style="color:blue">I will not be taking on new collaborations with undergraduates or masters students (at CMU or otherwise) at this time</span>. Please reach out to my incredibly talented labmates for research opportunties. 
+ 
 <details>
   <summary>Formal Biography</summary>
   Neehar Peri is a fifth year Robotics Ph.D. candidate at Carnegie Mellon University. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
