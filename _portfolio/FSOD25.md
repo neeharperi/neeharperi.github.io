@@ -30,7 +30,7 @@ Members: Lingyi Hong, Mingxi Cheng, Keliang Yin, Runze Li, Xingdong Sheng, Wenqi
 Members: Zhe Zhang, Lei Qi, Pengsong Niu, Yang Yang
 
 [[Dowload Technical Report](https://neeharperi.com/files/njustkmg_techreport_cvprw25.pdf)]
-
+[[Code](https://github.com/qianlanzz/Roboflow-20VL-Few-Shot-Object-Detection-Challenge-CVPR25)]
 
 # Challenge Honorable Mentions
 **Team: LEINAD**
