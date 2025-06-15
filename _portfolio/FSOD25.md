@@ -22,6 +22,7 @@ Members: Kaijin Zhang, Xuezhen Tu, Qingpeng Nong, Xiugang Dong, Xurui Gao, Xiang
 Members: Lingyi Hong, Mingxi Cheng, Keliang Yin, Runze Li, Xingdong Sheng, Wenqiang Zhang
 
 [[Dowload Technical Report](https://neeharperi.com/files/fduroilab_techreport_cvprw25.pdf)]
+[[Code](https://github.com/omnipotent13/FDUROILab_Lenovo_Roboflow-20VL)]
 
 # 3rd Place
 **Team: NJUST-KMG**
