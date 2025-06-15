@@ -24,6 +24,7 @@ Members: Dubing Chen, Huan Zheng, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jian
 Members: Yifei Chen, Ross Greer
 
 [[Dowload Technical Report](https://neeharperi.com/files/mi3_ucm_techreport_cvprw25.pdf)]
+[[Code](https://github.com/Chen1fly/Mi3_UCM_AV2_SM)]
 
 # 3rd Place
 **Team: ZXH**
@@ -31,6 +32,7 @@ Members: Yifei Chen, Ross Greer
 Members: Xiaohong Zhang, Yuanqi Li, Xianfei Li, Peng Pai
 
 [[Dowload Technical Report](https://neeharperi.com/files/zxh_techreport_cvprw25.pdf)]
+[[Code](https://github.com/JiangXiaobai00/SML)]
 
 # Honorable Mention
 **Team: DGIST**
