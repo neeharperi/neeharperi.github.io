@@ -17,6 +17,7 @@ To this end, our benchmark includes 10,000 planning-centric natural language que
 Members: Dubing Chen, Huan Zheng, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen
 
 [[Dowload Technical Report](https://neeharperi.com/files/zeekr_umcv_techreport_cvprw25.pdf)]
+[[Code](https://github.com/Ian0926/SM-Agent)]
 
 # 2nd Place
 **Team: Mi3 UCM**
