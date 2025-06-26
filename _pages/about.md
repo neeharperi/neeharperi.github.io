@@ -16,7 +16,7 @@ I am a _final year_ PhD candidate advised by [Deva Ramanan](https://www.cs.cmu.e
 ### Research 
 My research focuses on developing 3D foundation models for robot perception. Current 2D foundation models trained on multi-modal internet-scale data achieve remarkable zero-shot accuracy across a variety of 2D perception tasks. However, extending such foundation models for 3D perception remains challenging due to a lack of diverse large-scale 3D training data. To bridge this gap, my work leverages 2D foundation models and geometric priors to generate 3D pseudo-labels, allowing us to turn any 2D dataset into a 3D dataset!
 
- <mark>Note:</mark> <span style="color:blue">I will not be taking on any new collaborations (at CMU or otherwise) at this time</span>. Please reach out to my incredibly talented labmates for research opportunties. 
+ <mark>Note:</mark> <span style="color:blue">I am looking for a masters student at CMU to work on wheeled locomotion and navigation using a Unitree Go2-W</span>. Please reach out if you're interested in collaborating! 
  
 <details>
   <summary>Formal Biography</summary>
