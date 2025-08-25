@@ -18,7 +18,7 @@ My research focuses on developing 3D foundation models for robot perception. Cur
  
 <details>
   <summary>Formal Biography</summary>
-  Neehar Peri is a final year Robotics Ph.D. candidate at Carnegie Mellon University. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. His work has been published at conferences including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and CoRL. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
+  Neehar Peri is a final year Robotics Ph.D. candidate at Carnegie Mellon University. He is broadly interested in computer vision and machine learning, with applications to robot perception and action. He graduated from the University of Maryland in 2021 with a Bachelor’s degree in Computer Engineering. He was awarded the Sujan Guha Memorial best senior thesis, and was recognized as a Maryland Undergraduate Researcher of the Year. His work is supported in part by a NSF Graduate Research Fellowship.
 </details>
 
 ### Recent News
