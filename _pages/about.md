@@ -22,6 +22,7 @@ My research focuses on developing 3D foundation models for robot perception. Cur
 </details>
 
 ### Recent News
+- [September 2025] Our paper <span style="color:blue">Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models</span> has been accepted to NeurIPS D&B 2025
 - [June 2025] Our paper <span style="color:blue">MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion</span> has been accepted to ICCV 2025
 - [May 2025] Our paper <span style="color:blue">Towards Learning to Complete Anything in LiDAR</span> has been accepted to ICML 2025
 - [February 2025] Our paper <span style="color:blue">QuickDraw: Fast Visualization, Analysis and Active Learning for Medical Image Segmentation</span> has been accepted to HCII 2025
