@@ -22,7 +22,7 @@ My research focuses on developing 3D foundation models for robot perception. Cur
 </details>
 
 ### Recent News
-- [January 2026] Our paper <span style="color:blue">RF-DETR: Neural Architecture Search for Real-Time Detection Transformers</span> has been accepted to ICLR 2025
+- [January 2026] Our paper <span style="color:blue">RF-DETR: Neural Architecture Search for Real-Time Detection Transformers</span> has been accepted to ICLR 2026
 
 <details>
   <summary>Show More</summary>
