@@ -22,6 +22,7 @@ My research focuses on developing 3D foundation models for robot perception. Cur
 </details>
 
 ### Recent News
+- [February 2026] Our paper <span style="color:blue">RefAV: Towards Planning-Centric Scenario Mining</span> has been accepted to CVPR 2026
 - [January 2026] Our paper <span style="color:blue">RF-DETR: Neural Architecture Search for Real-Time Detection Transformers</span> has been accepted to ICLR 2026
 
 <details>
