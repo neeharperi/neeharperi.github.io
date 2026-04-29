@@ -22,6 +22,7 @@ Neehar Peri is a post-doctoral research fellow at Caltech. He received his PhD i
 </details>
 
 ### Recent News
+- [April 2026] I was selected to particpate in the <span style="color:blue">CVPR 2026 Doctoral Consortium</span>
 - [February 2026] Our paper <span style="color:blue">RefAV: Towards Planning-Centric Scenario Mining</span> has been accepted to CVPR 2026
 - [January 2026] Our paper <span style="color:blue">RF-DETR: Neural Architecture Search for Real-Time Detection Transformers</span> has been accepted to ICLR 2026
 
