@@ -69,6 +69,7 @@ Members: Qile Miao, Wencan Pei, Zerui Xi, Ruijie Ma, Jianxin Lin, Yiping Gao
 Members: Zhigang Chen, Xiawu Zheng, Rongrong Ji
 
 [[Dowload Technical Report](https://neeharperi.com/files/xmu_mac_techreport_cvprw26.pdf)]
+[[Code]](https://github.com/Kakarot1103/cvpr2026-fsod-challenge)
 
 **Team: TAHAKOM**
 
