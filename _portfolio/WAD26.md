@@ -30,7 +30,7 @@ Members: Songliang Cao, Jiele Zhao, Yuru Wang, Hao Li, Daqi Liu, Zehan Zhang, Fa
 # Other Teams
 **Team: MTL**
 
-Members: Zhijie Qiao, Xiangzhong Ye, Kunda Yang, Jiawei Wang, Henry X. Liu
+Members: Zhijie Qiao, Xiangzhong Ye, Kunda Yang, Haowei Sun, Jun Gao, Jiawei Wang, Henry X. Liu
 
 [[Dowload Technical Report](https://neeharperi.com/files/mtl_techreport_cvprw26.pdf)]
 
