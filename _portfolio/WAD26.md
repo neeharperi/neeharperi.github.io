@@ -17,7 +17,7 @@ To this end, our benchmark includes 10,000 planning-centric natural language que
 Members: Jeongwoo Park, Yuseung Na, Seongjae Jeong, Minwon Lee, Kichun Jo
 
 [[Dowload Technical Report](https://neeharperi.com/files/hyu_oasis_techreport_cvprw26.pdf)]
-[[Code]([https://www.neeharperi.com/TBD](https://github.com/ailab-hanyang/HYU_OASIS))]
+[[Code](https://github.com/ailab-hanyang/HYU_OASIS)]
 
 # Temporal Track Winners
 **Team: Xiaomi EV MISI**
@@ -25,7 +25,7 @@ Members: Jeongwoo Park, Yuseung Na, Seongjae Jeong, Minwon Lee, Kichun Jo
 Members: Songliang Cao, Jiele Zhao, Yuru Wang, Hao Li, Daqi Liu, Zehan Zhang, Fangzhen Li, Yu Wang, Yue Zhang, Bing Wang, Guang Chen, Hao Lu, Hangjun Ye
 
 [[Dowload Technical Report](https://neeharperi.com/files/misi_techreport_cvprw26.pdf)]
-[[Code]([https://www.neeharperi.com/TBD](https://github.com/xiaomi-research/automine))]
+[[Code](https://github.com/xiaomi-research/automine)]
 
 # Other Teams
 **Team: MTL**
@@ -51,7 +51,7 @@ Members: Wei Deng, Caoshengzhe Xue, Shuaikun Liu, Zhaohong Liu, Mengshi Qi, Huad
 Members: Huailong Peng, Jiatong Du, Yanjun Huang, Hong Chen
 
 [[Dowload Technical Report](https://neeharperi.com/files/msv_techreport_cvprw26.pdf)]
-[[Code]](https://github.com/A-LazyDog/msv)
+[[Code](https://github.com/A-LazyDog/msv)]
 
 **Team: EABOT**
 
