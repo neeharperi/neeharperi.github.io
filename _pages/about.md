@@ -18,7 +18,7 @@ My research focuses on developing 3D foundation models for robot perception. Cur
  
 <details>
 <summary>Formal Biography</summary>
-Neehar Peri is a post-doctoral research fellow at Caltech working at the intersection of computer vision, machine learning, and robot perception. He received his PhD in Robotics at CMU with Deva Ramanan, where his work was supported in part by an NSF Graduate Research Fellowship. Prior to CMU, he graduated from UMD in 2021 with a Bachelor’s degree in Computer Engineering, where he was was recognized as a Maryland Undergraduate Researcher of the Year and was awarded the Sujan Guha Memorial best senior thesis. 
+Neehar Peri is a post-doctoral research fellow at Caltech working at the intersection of computer vision, machine learning, and robotics. His research scales 3D perception to the open world by leveraging self-distilled geometric structure, cross-modal signals, and few-shot examples instead of large-scale manual 3D annotations. His recent work spans LiDAR scene flow, open-vocabulary 3D detection, and few-shot vision-language models, including a Best Paper Award Candidate at CVPR 2026. He received his PhD in Robotics at CMU with Deva Ramanan, supported in part by an NSF Graduate Research Fellowship.
 </details>
 
 ### Recent News
