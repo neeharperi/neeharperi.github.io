@@ -18,7 +18,7 @@ My research focuses on developing 3D foundation models for robotic manipulation.
  
 <details>
 <summary>Formal Biography</summary>
-Neehar Peri is a Postdoctoral Research Fellow at Caltech working at the intersection of computer vision, machine learning, and robotics. His research focuses on developing 3D foundation models for robotic manipulation, leveraging agentic real-to-sim-to-real pipelines, large-scale reinforcement learning, and geometric priors to build dynamic, precise, and performant models. His recent work spans agentic robotics for manipulation and quadruped locomotion, LiDAR scene flow, open-vocabulary 3D detection, and few-shot alignment for vision-language models, including a Best Paper Award Candidate at CVPR 2026. He received his PhD in Robotics at CMU with Deva Ramanan, supported in part by an NSF Graduate Research Fellowship. 
+Neehar Peri is a Postdoctoral Research Fellow at Caltech working at the intersection of computer vision and robotics. His research focuses on developing 3D foundation models for robotic manipulation, leveraging agentic real-to-sim-to-real pipelines, large-scale reinforcement learning, and geometric priors to build dynamic, precise, and performant models. His recent work spans agentic robotics for manipulation and quadruped locomotion, LiDAR scene flow, open-vocabulary 3D detection, and few-shot alignment for vision-language models, including a Best Paper Award Candidate at CVPR 2026. He received his PhD in Robotics at CMU with Deva Ramanan, supported in part by an NSF Graduate Research Fellowship. 
 </details>
 
 ### Recent News
