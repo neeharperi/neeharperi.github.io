@@ -22,6 +22,7 @@ Neehar Peri is a Postdoctoral Research Fellow at Caltech working at the intersec
 </details>
 
 ### Recent News
+- [October 2026] Our paper <span style="color:blue">Long-Tailed 3D Detection via Multi-Modal Fusion</span> has been accepted to IJCV 2026
 - [August 2026] Our paper <span style="color:blue">OV3D-Bench: A Diagnostic Benchmark for Open-Vocabulary Monocular 3D Detection</span> has been accepted to OpenSUN3D @ ECCV 2026
 - [June 2026] Our paper <span style="color:blue">DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection</span> has been accepted to ECCV 2026
 - [June 2026] Our paper <span style="color:blue">UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Driving</span> has been accepted to ECCV 2026
