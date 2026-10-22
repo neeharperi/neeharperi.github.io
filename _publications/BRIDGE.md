@@ -1,12 +1,12 @@
 ---
-title: ''
+title: 'Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts'
 collection: publications
 permalink: /publications/BRIDGE
 excerpt: ''
 date: 2026-10-15
 venue: 'Under Review'
 paperurl: ''
-citation: 'Peri N, Watkins D. MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation. Under Review'
+citation: 'Surendran V, Peri N, Watkins D. Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts. Under Review'
 
 ---
 
